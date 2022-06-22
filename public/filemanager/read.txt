@@ -1,0 +1,1 @@
+WARN! not allowed to remove /public/filemanager folder
